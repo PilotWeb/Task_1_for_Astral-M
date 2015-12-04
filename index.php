@@ -286,7 +286,7 @@
             <div class="row">
                  <figure class="usn-types-item col-md-4 clearfix">
                  <div>
-                    <img src="EO_TZ-7_images (1)/EO_TZ-7_images/EO_TZ-7_07.png" height="122" width="122" alt="">
+                    <img src="images/EO_TZ-7_07.png" height="122" width="122" alt="">
                 </div>
                     <figcaption>
                         <h4 class="types-title">Отчетность для ИП без работников</h4>
@@ -304,7 +304,7 @@
                  </figure>
                  <figure class="usn-types-item col-md-4  clearfix">
                  <div>
-                    <img src="EO_TZ-7_images (1)/EO_TZ-7_images/EO_TZ-7_09.png" height="122" width="122" alt="">
+                    <img src="images/EO_TZ-7_09.png" height="122" width="122" alt="">
                  </div>
                     <figcaption>
                         <h4 class="types-title">Отчетность для ИП со штатом работников</h4>
@@ -320,7 +320,7 @@
                  </figure>
                  <figure class="usn-types-item col-md-4  clearfix">
                  <div>
-                    <img src="EO_TZ-7_images (1)/EO_TZ-7_images/EO_TZ-7_11.png" height="122" width="122" alt="">
+                    <img src="images/EO_TZ-7_11.png" height="122" width="122" alt="">
                  </div>   
                     <figcaption>
                         <h4 class="types-title">Отчетность для ООО</h4>
@@ -375,7 +375,7 @@
             <div class="row">
                  <figure class="el-usn-types-item col-md-3">
                      <div >
-                       <img src="EO_TZ-7_images (1)/EO_TZ-7_images/EO_TZ-7_21.png" height="122" width="122" alt="">
+                       <img src="images/EO_TZ-7_21.png" height="122" width="122" alt="">
                     </div>
                     <figcaption>
                         <h4>В ФНС</h4>
@@ -387,7 +387,7 @@
                  </figure> 
                  <figure class="el-usn-types-item col-md-3">
                     <div>
-                       <img src="EO_TZ-7_images (1)/EO_TZ-7_images/EO_TZ-7_23.png" height="122" width="122" alt="">
+                       <img src="images/EO_TZ-7_23.png" height="122" width="122" alt="">
                     </div>
                     <figcaption>
                         <h4>В ПФР</h4>
@@ -399,7 +399,7 @@
                  </figure>
                  <figure class="el-usn-types-item col-md-3">
                      <div>
-                       <img src="EO_TZ-7_images (1)/EO_TZ-7_images/EO_TZ-7_25.png" height="122" width="122" alt="">
+                       <img src="images/EO_TZ-7_25.png" height="122" width="122" alt="">
                      </div>
                     <figcaption>
                         <h4>В ФСС</h4>
@@ -411,7 +411,7 @@
                  </figure> 
                  <figure class="el-usn-types-item col-md-3">
                      <div>
-                       <img src="EO_TZ-7_images (1)/EO_TZ-7_images/EO_TZ-7_25.png" height="122" width="122" alt="">
+                       <img src="images/EO_TZ-7_25.png" height="122" width="122" alt="">
                      </div>
                     <figcaption>
                         <h4>В РОССТАТ</h4>
